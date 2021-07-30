@@ -27,6 +27,7 @@ implementation
 procedure TForm1.Button1Click(Sender: TObject);
 begin
   ShowMessage('Welcome to github');
+  ShowMessage('Welcome to github');
 end;
 
 end.
